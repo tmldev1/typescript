@@ -1,0 +1,2 @@
+# typescript
+Init code
